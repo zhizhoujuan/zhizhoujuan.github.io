@@ -30,7 +30,9 @@ Yes，这个博客是知舟倦的，我的真名是马添翼。我本想自建�
 
 
 博客源码在 <a target="_blank" href='https://github.com/zhizhoujuan/zhizhoujuan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
+<p>
+  最（zhuì)后,感谢Jekyll,感谢leopardpan,感谢TV,感谢所有TV.
+</p>
 <p> 
 
 <p> 
