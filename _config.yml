@@ -1,34 +1,34 @@
 # Basic
-title: 潘柏信
+title: 知舟倦
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: 马添翼
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 高中生 / 编程初学者
+url: "http://zhizhoujuan.github.io"
 
 # Comment
 comment:
-    disqus: leopard
-    # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
-    # uyan: 2143225  # 有言id,登录有言官网申请
+    # disqus: leopard
+    # gitment:  // 需要修改 comments.html中的client_id和client_secret
+    # uyan:   # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 7331697062 
+    github: zhizhoujuan
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    # jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: zhoujuan_zhi@icloud.com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: xxxx  
+    id: 6ea7f661562eb0a9ea3310a42a17b4e4
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
@@ -41,7 +41,7 @@ ga:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+# 地址： https://github.com/zhizhoujuan/zhizhoujuan.github.io
 #
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
